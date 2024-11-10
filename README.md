@@ -45,23 +45,24 @@ npm install anosh-animate
  </div>
 ```
 # outputs
-<table><tr><th>bcolor1</th>
+ <table><tr><th>bcolor1</th><th>bcolor2</th>  <th>bcolor3</th> <th>bcolor4</th> <th>bcolor5</th></tr>
+    <tr>
     <td><div class="anosh bcolor1" > 
       <img src="functionality/cartoon.png"> 
      </div></td>
-    <th>bcolor2</th>
+    
     <td><div class="anosh bcolor2" > 
       <img src="functionality/cartoon.png"> 
      </div></td>
-    <th>bcolor3</th>
+  
     <td><div class="anosh bcolor3" > 
       <img src="functionality/cartoon.png"> 
      </div></td>
-    <th>bcolor4</th>
+   
     <td><div class="anosh bcolor4" > 
       <img src="functionality/cartoon.png"> 
      </div></td>
-    <th>bcolor5</th>
+   
     <td><div class="anosh bcolor5" > 
       <img src="functionality/cartoon.png"> 
      </div></td></tr></table>
