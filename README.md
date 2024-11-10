@@ -28,12 +28,12 @@ npm install anosh-animate
 <link rel="stylesheet" href="">
 <head>
 ```
-<span style="color:green;">now you are connected to anosh-animate library you can use all features</span>
+**now you are connected to anosh-animate library you can use all features**
 
 
 
 
-#how to use
+# how to use
 
 ![How to use](functionality/how%20to%20use.png)
 
@@ -44,10 +44,27 @@ npm install anosh-animate
   <img src="path of your image /cartoon.png"> 
  </div>
 ```
-###output of bcolor1
-<div class="anosh bcolor1" > 
-  <img src="functionality/cartoon.png"> 
- </div>
+# outputs
+<table><tr><th>bcolor1</th>
+    <td><div class="anosh bcolor1" > 
+      <img src="functionality/cartoon.png"> 
+     </div></td>
+    <th>bcolor2</th>
+    <td><div class="anosh bcolor2" > 
+      <img src="functionality/cartoon.png"> 
+     </div></td>
+    <th>bcolor3</th>
+    <td><div class="anosh bcolor3" > 
+      <img src="functionality/cartoon.png"> 
+     </div></td>
+    <th>bcolor4</th>
+    <td><div class="anosh bcolor4" > 
+      <img src="functionality/cartoon.png"> 
+     </div></td>
+    <th>bcolor5</th>
+    <td><div class="anosh bcolor5" > 
+      <img src="functionality/cartoon.png"> 
+     </div></td></tr></table>
 
 
 
