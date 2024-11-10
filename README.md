@@ -7,8 +7,9 @@
 
 ## Features ✨
 
-- **500+ Animations**: A wide variety of animations to bring your website to life.
-- **Easy to Use**: Just add a CSS class and enjoy the animation.
+- **100+ Animations**: A wide variety of animations to bring your website to life.
+- **border**: 5 types of border color effect.
+- **Easy to Use**: Just add cdn and CSS class and enjoy the animation.
 - **Lightweight**: Fast loading with a small file size.
 - **Customizable**: Customize animations to fit your needs.
 
