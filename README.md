@@ -16,26 +16,26 @@
 ## Installation ⚙️
 
 You can include `anosh-animate` in your project using npm or a CDN.
-### NPM
+# NPM
 
 ```bash
 npm install anosh-animate
 ```
 
-###CDN example add this code in your html code inside head tag
+#CDN example add this code in your html code inside head tag
 ```bash
 <head>
 <link rel="stylesheet" href="">
 <head>
 ```
 
-<p style="color:green;><b>now you are connected to anosh-animate library you can use all features</b></p>
+<p style="color:green;"><b>now you are connected to anosh-animate library you can use all features</b></p>
+
 #how to use
-
-
 ![How to use](functionality/how%20to%20use.png)
 
-###add borders in images 
+
+###example how to add borders in images 
 ```bash
 <div class="anosh bcolor1" > 
   <img src="path of your image /cartoon.png"> 
@@ -45,8 +45,10 @@ npm install anosh-animate
 <div class="anosh bcolor1" > 
   <img src="functionality/cartoon.png"> 
  </div>
-## Animation Names
 
+
+
+## Animation Names
 ### Basic Animations
 - `blink`
 - `pulseGrow`
