@@ -3,7 +3,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/anosh-gem/anosh-animate/blob/main/LICENSE)
 ![GitHub stars](https://img.shields.io/github/stars/anosh-gem/anosh-animate?style=social)
 
-**Anosh Animate** is a CSS animation library featuring over 500 stunning animations. This library helps developers add beautiful animations to their web projects effortlessly.
+**Anosh Animate** is a CSS animation library featuring over 100 stunning animations. This library helps developers add beautiful animations to their web projects effortlessly.
 
 ## Features ✨
 
