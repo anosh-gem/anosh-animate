@@ -46,7 +46,8 @@ npm install anosh-animate
 ```
 # outputs
 
- <table><tr><th>without border</th><th>bcolor1</th><th>bcolor2</th>  <th>bcolor3</th> <th>bcolor4</th> <th>bcolor5</th></tr>
+<link rel="stylesheet" href="anosh-animate.css">
+<table><tr><th>without border</th><th>bcolor1</th><th>bcolor2</th>  <th>bcolor3</th> <th>bcolor4</th> <th>bcolor5</th></tr>
     <tr>
        <td><div> 
       <img src="functionality/cartoon.png"> 
