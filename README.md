@@ -38,7 +38,7 @@ npm install anosh-animate
 ![How to use](functionality/how%20to%20use.png)
 
 
-###example how to add borders in images 
+### example how to add borders in images you can change **bcolor2, bcolor3, bcolor4, bcolor5**
 ```bash
 <div class="anosh bcolor1" > 
   <img src="path of your image /cartoon.png"> 
@@ -46,8 +46,11 @@ npm install anosh-animate
 ```
 # outputs
 
- <table><tr><th>bcolor1</th><th>bcolor2</th>  <th>bcolor3</th> <th>bcolor4</th> <th>bcolor5</th></tr>
+ <table><tr><th>without border</th><th>bcolor1</th><th>bcolor2</th>  <th>bcolor3</th> <th>bcolor4</th> <th>bcolor5</th></tr>
     <tr>
+       <td><div> 
+      <img src="functionality/cartoon.png"> 
+     </div></td>
     <td><div class="anosh bcolor1"> 
       <img src="functionality/cartoon.png"> 
      </div></td>
