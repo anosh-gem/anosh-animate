@@ -19,11 +19,12 @@ You can include `anosh-animate` in your project using npm or a CDN.
 ###CDN
 ```bash
 <link rel="stylesheet" href="">
+'''
 ### NPM
 
 ```bash
 npm install anosh-animate
-
+'''
 ## Animation Names
 
 ### Basic Animations
