@@ -28,7 +28,7 @@ npm install anosh-animate
 <link rel="stylesheet" href="">
 <head>
 ```
-<span style="color:green;">now you are connected to anosh-animate library you can use all features</span>
+ok <span style="color:green;">now you are connected to anosh-animate library you can use all features</span>
 
 
 
