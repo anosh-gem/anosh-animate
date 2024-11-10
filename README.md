@@ -71,7 +71,7 @@ npm install anosh-animate
      </div></td></tr></table>
 
 
-### example how to add animation effect in any og html tag i added bounce animation wit  image of a ball**
+# example how to add animation effect in any og html tag i added bounce animation wit  image of a ball
 ```bash
   <img src="path of your image /ball.png"  class="anosh bounce i"> 
 ```
