@@ -46,7 +46,7 @@ npm install anosh-animate
 ```
 # outputs
 
-<link rel="stylesheet" href="anosh-animate.css">
+<html><head><link rel="stylesheet" href="anosh-animate.css"></head><body>
 <table><tr><th>without border</th><th>bcolor1</th><th>bcolor2</th>  <th>bcolor3</th> <th>bcolor4</th> <th>bcolor5</th></tr>
     <tr>
        <td><div> 
@@ -67,6 +67,8 @@ npm install anosh-animate
     <td><div class="anosh bcolor5"> 
       <img src="functionality/cartoon.png"> 
      </div></td></tr></table>
+</body>
+</html>
 
 
 
