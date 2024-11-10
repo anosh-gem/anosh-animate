@@ -25,7 +25,9 @@ npm install anosh-animate
 # CDN example add this code in your html code inside head tag
 ```bash
 <head>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/anosh-gem/anosh-animate@main/anosh-animmate-min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/anosh-gem/anosh-animate@main/anosh-animmate-min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/anosh-gem/anosh-animate@main/dist/control/control.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/anosh-gem/anosh-animate@main/dist/root/root.css">
 <head>
 ```
 **now you are connected to anosh-animate library you can use all features**
