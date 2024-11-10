@@ -16,8 +16,144 @@
 ## Installation ⚙️
 
 You can include `anosh-animate` in your project using npm or a CDN.
-
+###CDN
+```bash
+<link rel="stylesheet" href="">
 ### NPM
 
 ```bash
 npm install anosh-animate
+
+## Animation Names
+
+### Basic Animations
+- `blink`
+- `pulseGrow`
+- `pulseShrink`
+- `floatUpDown`
+- `floatLeftRight`
+- `flicker`
+- `shadowPulse`
+- `spinSlow`
+- `spinReverse`
+
+### Fade and Transition Animations
+- `fadeIn`
+- `fadeOut`
+- `fadeInExpand`
+- `dropFade`
+- `riseFade`
+- `zoomOutFade`
+- `zoomInFlip`
+- `glideDown`
+- `glideUp`
+- `slideInDiagonal`
+- `slideInLeft`
+- `slideInRight`
+- `slideInUp`
+- `slideInDown`
+- `slideOutLeft`
+- `slideOutRight`
+- `slideOutUp`
+- `slideOutDown`
+
+### Rotate and Spin Animations
+- `twistIn`
+- `twistOut`
+- `wave`
+- `spinZoom`
+- `rotateX`
+- `rotateY`
+- `spinYFlip`
+- `spinXFlip`
+- `rotateIn`
+
+### Bounce and Shake Animations
+- `bounce`
+- `bounceTwist`
+- `shakeX`
+- `shakeY`
+- `headShake`
+- `jiggle`
+- `wobble`
+- `jump`
+- `drop`
+- `bounceInLeft`
+- `bounceInRight`
+- `bounceOutLeft`
+- `bounceOutRight`
+- `bounceTwist`
+
+### Scale and Zoom Animations
+- `zoomIn`
+- `zoomOut`
+- `scaleUp`
+- `scaleDown`
+- `expandZoom`
+- `shrinkZoom`
+- `zoomUp`
+- `zoomDown`
+- `zoomInBounce`
+- `zoomOutBounce`
+
+### Skew, Sway, and Tilt Animations
+- `sway`
+- `jelly`
+- `tiltIn`
+- `tiltOut`
+- `skewIn`
+- `skewOut`
+- `tiltBounce`
+- `tiltScale`
+- `swayTwist`
+- `waveTilt`
+
+### Rotation and Flip Animations
+- `flipInX`
+- `flipOutX`
+- `flipInY`
+- `flipOutY`
+- `flipZ`
+- `rotateZ`
+- `flipInZoom`
+- `flipOutZoom`
+- `circleSpin`
+- `twirl`
+
+### Flash and Flicker Animations
+- `flash`
+- `flicker`
+- `flickerFade`
+- `blinkFast`
+- `glowPulse`
+- `lightFlash`
+- `strobe`
+- `shadowFlash`
+- `twinkle`
+- `sparkle`
+
+### Entrance and Exit Animations
+- `tada`
+- `rubberBand`
+- `swing`
+- `lightSpeedIn`
+- `lightSpeedOut`
+- `jello`
+- `bounceIn`
+- `bounceOut`
+- `expandIn`
+- `collapseOut`
+
+### Border and Shadow Animations
+- `dropShadowPulse`
+- `borderGlow`
+- `borderFlash`
+- `shadowExpand`
+- `shadowShrink`
+- `borderWave`
+- `shadowRotate`
+- `borderPop`
+- `glowBounce`
+- `neonBlink`
+
+
