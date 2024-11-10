@@ -22,14 +22,15 @@ You can include `anosh-animate` in your project using npm or a CDN.
 npm install anosh-animate
 ```
 
-#CDN example add this code in your html code inside head tag
+# CDN example add this code in your html code inside head tag
 ```bash
 <head>
 <link rel="stylesheet" href="">
 <head>
 ```
+<span style="color:green;">now you are connected to anosh-animate library you can use all features</span>
 
-<p style="color:green;"><b>now you are connected to anosh-animate library you can use all features</b></p>
+
 
 #how to use
 ![How to use](functionality/how%20to%20use.png)
