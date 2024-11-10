@@ -11,8 +11,8 @@
 
 
 
-
-
+ @import url('root/root.css');
+ @import url('control/control.css');
 
 @media (prefers-reduced-motion:reduce),
 print {
@@ -149,8 +149,7 @@ print {
   -webkit-animation-name: flash;
   animation-name: flash
 }
-@import url('dist/root/root.css');
-@import url('dist/control/control.css');
+
 
 @-webkit-keyframes pulse {
   0% {
