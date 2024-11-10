@@ -31,7 +31,9 @@ npm install anosh-animate
 
 ![How to use](functionality/how%20to%20use.png)
 
-
+<div class="anosh bcolor1" > 
+  <img src="functionality/cartoon.png"> 
+ </div>
 ## Animation Names
 
 ### Basic Animations
