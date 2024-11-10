@@ -212,4 +212,4 @@ npm install anosh-animate
 - `glowBounce`
 - `neonBlink`
 
-
+free and open source 
