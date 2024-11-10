@@ -25,6 +25,11 @@ You can include `anosh-animate` in your project using npm or a CDN.
 ```bash
 npm install anosh-animate
 ```
+
+#how to use
+
+
+!(functionality/how.png
 ## Animation Names
 
 ### Basic Animations
