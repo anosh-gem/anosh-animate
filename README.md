@@ -29,7 +29,8 @@ npm install anosh-animate
 #how to use
 
 
-![How to use](functionality/how\ to\ use.png)
+![How to use](functionality/how%20to%20use.png)
+
 
 ## Animation Names
 
