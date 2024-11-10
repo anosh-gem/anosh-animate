@@ -45,6 +45,7 @@ npm install anosh-animate
  </div>
 ```
 # outputs
+
  <table><tr><th>bcolor1</th><th>bcolor2</th>  <th>bcolor3</th> <th>bcolor4</th> <th>bcolor5</th></tr>
     <tr>
     <td><div class="anosh bcolor1" > 
